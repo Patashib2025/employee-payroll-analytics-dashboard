@@ -248,4 +248,11 @@ With over 30 years of leadership experience in finance, audit, risk management, 
 
 ---
 
-⭐ **If you found this project useful, please consider giving it a star.**
+---
+
+## Professional Statement
+
+This project demonstrates my ability to transform complex business data into meaningful insights using **Power BI**, **DAX**, **Power Query**, and **data storytelling**. I welcome opportunities to apply these skills to solve real-world business challenges and create value through data-driven decision-making.
+
+**Patrick Ashibuogwu**  
+*Data Analytics Professional | Excel | Power BI | SQL | Python*
